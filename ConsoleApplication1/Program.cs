@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             Console.ReadKey();
             Console.ReadKey();
+            Console.ReadKey();
         }
     }
 }
