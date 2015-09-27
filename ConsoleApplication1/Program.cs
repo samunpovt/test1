@@ -11,7 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.ReadKey();
-            Console.ReadKey();
+            char c=Console.ReadKey();
             Console.ReadKey();
         }
     }
